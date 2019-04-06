@@ -1,0 +1,14 @@
+*
+
+!res/
+
+!res/audioww/
+!res/audioww/*
+
+!res/text/
+!res/text/*
+
+!res/text/lc_messages/
+!res/text/lc_messages/*
+
+!version.xml
